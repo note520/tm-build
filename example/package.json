@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "tm-server",
+    "build": "tm-build"
+  },
+  "author": "ricopter@qq.com",
+  "license": "ISC",
+  "browserslist": [
+    "last 2 versions",
+    "Android >=4",
+    "Chrome >=35",
+    "iOS>=8",
+    "not ie <= 8"
+  ],
+  "dependencies": {
+
+  }
+}
